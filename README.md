@@ -28,6 +28,6 @@ http://localhost:9000
 <img src="https://github.com/a088/BookManager/blob/master/preview/1.PNG">
 <img src="https://github.com/a088/BookManager/blob/master/preview/2.PNG">
 <img src="https://github.com/a088/BookManager/blob/master/preview/3.PNG">
-<img src="https://github.com/a088/BookManager/blob/master/preview/1.PNG">
-<img src="https://github.com/a088/BookManager/blob/master/preview/1.PNG">
-<img src="https://github.com/a088/BookManager/blob/master/preview/1.PNG">
+<img src="https://github.com/a088/BookManager/blob/master/preview/4.PNG">
+<img src="https://github.com/a088/BookManager/blob/master/preview/5.PNG">
+<img src="https://github.com/a088/BookManager/blob/master/preview/6.PNG">
