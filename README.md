@@ -25,7 +25,7 @@ http://localhost:9000
 2. 如果该项目对您有帮助,请star鼓励我
 
 ### 本项目截图<br/>
-<img src="https://github.com/a088/BookManager/blob/master/preview/1.PNG">
+![image](https://github.com/a088/BookManager/blob/master/preview/1.PNG)
 <img src="https://github.com/a088/BookManager/blob/master/preview/2.PNG">
 <img src="https://github.com/a088/BookManager/blob/master/preview/3.PNG">
 <img src="https://github.com/a088/BookManager/blob/master/preview/4.PNG">
